@@ -2,7 +2,6 @@
 
 #### 👷 What I'm working on now
 - 🌱 Creating a user-friendly vulnerability scanner for home networks.
-- 🙈 [Auto-primate](https://github.com/johnclemente/MailchimpAutomations) Creating a way to rapidly update your Mailchimp audience through the MailChimp API.
 - 🚩 [CTFs](https://www.notion.so/CTF-94ddc03691d84b76b804a873fb110654) Tackling daily CTFs and documenting my findings.
 
 #### ⏳ Side quests

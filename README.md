@@ -1,9 +1,16 @@
 ## Hi there! 👋 I'm John Clemente
 
-### About Me
-- 🌱 Currently working on creating a user-friendly vulnerability scanner for home networks.
+### 👷 What I am working on now:
+- 🌱 Creating a user-friendly vulnerability scanner for home networks.
+- 🙈 [Auto-primate](https://github.com/johnclemente/MailchimpAutomations) Creating a way to rapidly update your Mailchimp audience through the MailChimp API.
+- 🚩 [CTFs](https://www.notion.so/CTF-94ddc03691d84b76b804a873fb110654) Tackling daily CTFs and documenting my findings.
+
+### ⏳ What has to wait for now :(
 - 🔍 Diving into [malware analysis](https://github.com/ckane/CS7038-Malware-Analysis/tree/gh-pages).
-- 🛠 Looking to collaborate on anything related to reverse engineering, malware analysis, and Ghidra.
+- 💾 [LearnCWithMe](https://github.com/johnclemente/LearnCWithMe): a course in C geared toward security that I had AI make for me.
+
+### If you're reading this...
+- 🛠 I'm looking to collaborate on anything related to pen testing, automation, networking, and more! 
 - 💬 I enjoy chatting with people working in security. Email me if you're interested!
 
 ### How to Reach Me
